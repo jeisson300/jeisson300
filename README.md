@@ -16,5 +16,4 @@ I'm web developer, i from colombia, i'm a person committed with my work, i like 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-## my linkedin
-<img src="www.linkedin.com/in/jose-jeisson-ceballos-leal-877026171">👨‍💻 </img>
+
