@@ -5,7 +5,7 @@
 I'm web developer, i from colombia, i'm a person committed with my work, i like learning about technologies and develop me ideas, i'm always seek knowledge and grow
 
 ## my portfolio
-<a href="https://jeisson300.github.io/portfolio/" >💻</a>
+<a href="https://jeisson300.github.io/portfolio2/" >💻</a>
 
 ## skills: 
 
